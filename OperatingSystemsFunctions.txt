@@ -1,0 +1,3 @@
+OS systems have many funtions.
+One of those funtions are shut down a device.
+Another funtion would booting a device. Booting a device means starting up, turning on or powering up a device.
